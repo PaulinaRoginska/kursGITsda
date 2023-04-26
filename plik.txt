@@ -1,1 +1,1 @@
-Testowanie branch nr 1.
+Testowanie branch nr 1, branch nr 2 i dalej.
