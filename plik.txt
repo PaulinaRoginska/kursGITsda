@@ -1,1 +1,1 @@
-Inna wersja tego pliku nadpisze poprzednia.
+Testowanie branch nr 1.
